@@ -1,0 +1,1 @@
+mocha $(find tests -name '*.js') -w
